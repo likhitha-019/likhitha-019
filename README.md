@@ -1,18 +1,28 @@
-# Hi 👋, I'm Likhitha Sankula
+<h1 align="center">Hi 👋, I'm Likhitha Sankula</h1>
 
-### 🤖 AI/ML Enthusiast | 🌾 AI for Agriculture | 💻 Full Stack Developer | 🚀 Problem Solver
+<h3 align="center">
+🤖 AI/ML Engineer • 🌾 AI for Agriculture • 💻 Full Stack Developer • 🚀 Problem Solver
+</h3>
 
-![](https://komarev.com/ghpvc/?username=likhitha-019\&color=blueviolet\&style=for-the-badge)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Building+Intelligent+Solutions;Full+Stack+Developer;Passionate+About+Real-World+Impact;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=likhitha-019&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science undergraduate at VIT-AP University passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.
+💡 I am a Computer Science undergraduate at **VIT-AP University** passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.
 
-I enjoy identifying real-world challenges and building intelligent solutions that create measurable impact through AI, automation, and scalable software systems.
+🌱 I enjoy transforming ideas into impactful products using AI, intelligent automation, and scalable software engineering.
 
-When I discover a problem worth solving, I love turning ideas into working products using machine learning, backend engineering, and modern web technologies.
+🎯 My goal is to build technology that solves real-world challenges and creates meaningful impact.
+
+📈 Current CGPA: **9.53 / 10**
 
 ---
 
@@ -43,17 +53,61 @@ When I discover a problem worth solving, I love turning ideas into working produ
 
 ---
 
+# 🛠 Technical Skills & Tools
+
+### 👩‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
+</p>
+
+### 🧱 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,fastapi" />
+</p>
+
+### ☁️ Cloud & Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+### 📦 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+### 🤖 ML / AI
+
+* TensorFlow
+* Keras
+* Scikit-Learn
+* CNN
+* Random Forest
+* SHAP
+* Computer Vision
+
+### 🛠 Tools & Others
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌾 Smart Crop Advisor
 
-AI-powered agricultural advisory platform featuring:
+An AI-powered agricultural advisory platform featuring:
 
-* Crop Recommendation System
-* Plant Disease Detection
-* Weather Intelligence
-* Market Forecasting
-* Multilingual Farmer Assistant
+* 🌱 Crop Recommendation System
+* 🍃 Plant Disease Detection
+* 🌦 Weather Intelligence
+* 📈 Market Forecasting
+* 🗣 Multilingual Farmer Assistant
 
 **Tech:** Python, FastAPI, TensorFlow, MobileNetV2, Scikit-Learn, JavaScript
 
@@ -80,7 +134,7 @@ AI-powered agricultural advisory platform featuring:
 ## 🎓 Education
 
 **B.Tech in Computer Science and Engineering**
-VIT-AP University (2022–2026)
+🏫 VIT-AP University (2022 – 2026)
 
 📈 CGPA: **9.53 / 10**
 
@@ -102,65 +156,17 @@ VIT-AP University (2022–2026)
 
 ---
 
-# 🛠 Tech Stack & Tools
+## 🌐 Let's Connect
 
-## 👩‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
-</p>
-
-## 🧱 Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,fastapi" />
-</p>
-
-## ☁️ Cloud & Version Control
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-## 📦 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
-## 🤖 ML / AI
-
-* TensorFlow
-* Keras
-* Scikit-Learn
-* CNN
-* Random Forest
-* SHAP
-* Computer Vision
-
-## 🛠 Tools & Others
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
 
 <a href="mailto:likhitha931@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-likhitha931%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/likhitha-sankula-b37978257">
 <img src="https://img.shields.io/badge/LinkedIn-Likhitha%20Sankula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://github.com/likhitha-019">
 <img src="https://img.shields.io/badge/GitHub-likhitha--019-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -170,6 +176,10 @@ VIT-AP University (2022–2026)
 
 ---
 
-### 💡 Philosophy
+## 💡 Philosophy
 
-*"Technology becomes meaningful when it solves real-world problems. My goal is to build intelligent, scalable, and impactful solutions through AI and software engineering."*
+> *"Technology becomes meaningful when it solves real-world problems. My goal is to build intelligent, scalable, and impactful solutions through AI and software engineering."*
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
